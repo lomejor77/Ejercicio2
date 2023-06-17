@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ejercicio2</string>
+    <string name="apellido">Apellido</string>
+    <string name="ejercicio_2">Ejercicio 2</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo Electronico</string>
 </resources>
